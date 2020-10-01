@@ -52,4 +52,23 @@ footer{
  footer p i{
  	color: salmon;
  }
+nav{
+	margin: 0;
 
+}
+
+ul li{
+	display: inline-block;
+	float: right;
+	position: relative;
+	top: -30px;
+	letter-spacing: 3px;
+}
+a{
+	color: black;
+	padding:25px;
+
+}
+a:hover{
+	color: red;
+}
